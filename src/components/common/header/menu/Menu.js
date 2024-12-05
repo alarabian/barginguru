@@ -363,6 +363,7 @@ const Menu = () => {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
+                  {/* MB Advice <span className="new">new</span> */}
                   MB Advice <span className="new">new</span>
                 </a>
                 <div className="dropdown-menu dropdownSubmenu">
